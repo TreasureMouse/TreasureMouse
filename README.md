@@ -1,39 +1,12 @@
-# AElf - A Decentralized Cloud Computing Blockchain Network 
+# TreasureMouse - An Agent For Wikileaks
 
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/aelfproject/aelf.svg)](https://app.gitkraken.com/glo/board/XKsOZJarBgAPseno)
-[![lisence](https://img.shields.io/github/license/AElfProject/AElf.svg)](https://github.com/AElfProject/AElf/blob/dev/LICENSE)
-[![Nuget](https://img.shields.io/nuget/v/AElf.OS.svg)](https://www.nuget.org/packages?q=aelf)
-[![MyGet (with prereleases)](https://img.shields.io/myget/aelf-project-dev/vpre/aelf.os.svg?label=myget)](https://www.myget.org/gallery/aelf-project-dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aelfblockchain.svg?label=%40aelfblockchain&style=social)](https://twitter.com/aelfblockchain)
-[![Telegram](https://badgen.net/badge/telegram/join/blue?icon=telegram)](https://t.me/aelfdeveloper)
+Welcome to TreasureMouse's official GitHub repo ! 
 
-BRANCH | TRAVIS CI | AZURE PIPELINES | TESTS | CODE COVERAGE
--------|-----------|-----------------|-------|--------------
-MASTER |[![Build Status](https://travis-ci.org/AElfProject/AElf.svg?branch=master)](https://travis-ci.org/AElfProject/AElf) | [![Build Status](https://dev.azure.com/AElfProject/AElf/_apis/build/status/AElfProject.AElf?branchName=master)](https://dev.azure.com/AElfProject/AElf/_build/latest?definitionId=1&branchName=master) | [![Test Status](https://img.shields.io/azure-devops/tests/AElfProject/AElf/1/master)](https://dev.azure.com/AElfProject/AElf/_build/latest?definitionId=1&branchName=master) | [![codecov](https://codecov.io/gh/AElfProject/AElf/branch/master/graph/badge.svg)](https://codecov.io/gh/AElfProject/AElf)
-DEV    |[![Build Status](https://travis-ci.org/AElfProject/AElf.svg?branch=dev)](https://travis-ci.org/AElfProject/AElf) | [![Build Status](https://dev.azure.com/AElfProject/AElf/_apis/build/status/AElfProject.AElf?branchName=dev)](https://dev.azure.com/AElfProject/AElf/_build/latest?definitionId=1&branchName=dev) | [![Test Status](https://img.shields.io/azure-devops/tests/AElfProject/AElf/1/dev)](https://dev.azure.com/AElfProject/AElf/_build/latest?definitionId=1&branchName=dev) | [![codecov](https://codecov.io/gh/AElfProject/AElf/branch/dev/graph/badge.svg)](https://codecov.io/gh/AElfProject/AElf)
+TreasureMouse is an agent for wikileaks. As the first step of wikileaks' legal entry into China, it mainly provides wikileaks with new information and common readers. WikiLeaks, also known as WikiLeaks or WikiLeaks, is a borderless nonprofit Internet media that helps insiders keep organizations, businesses and governments operating in the sun. Julian Paul Assange is generally regarded as the founder, editor and director of wikileaks. Christian Hrafenson, Joseph Farrell and Sarah Harrison are the only other members of their group known to the public to be associated with wikileaks. Christian Hrafenson also worked with Assange, Inga Ragnar Ingarsen, and Gavin Mikael Faydian in the Sunshine Media Products division.
 
-Welcome to AElf's official GitHub repo ! 
+TreasureMouse as wikipedia decryption's platform, is mainly used to reveal all kinds of Internet inside information source, is a small white can quickly grow into big cafes and fast learning to the knowledge of the Internet, in the rat of the hidden treasure can quickly learn insider knowledge from all walks of life, even knew insider information can exchange trading in the rats of the hidden treasure. From the constant exchange and communication to quickly supplement the treasure rat database, so that more newcomers can get the answer they want here.
 
-AElf is a blockchain system aiming to achieve scalability and extensibility through the use of side-chains and a flexible design. To support multiple use cases AElf makes it as easy as possible to extend/customize the system by providing easy to use tools and frameworks in order to customize the chains and write smart contracts. AElf will eventually support various languages that will let developers choose the one they are the most comfortable with.
-
-For more information you can follow these links:
-* [Official website](https://aelf.io)
-* [Documentation](https://docs.aelf.io/en/latest/)
-    * [Environment setup](https://docs.aelf.io/en/latest/getting-started/development-environment/environment-setup.html)
-    * [Running a node](https://docs.aelf.io/en/latest/getting-started/development-environment/docker.html)
-    * [Smart contract development](https://docs.aelf.io/en/latest/getting-started/smart-contract-development/index.html)
-    * [Web Api](https://docs.aelf.io/en/latest/reference/web-api/web-api.html)
-    * [Testnet](https://docs.aelf.io/en/latest/tutorials/testnet.html)
-* [White Paper](https://aelf.io/gridcn/aelf_whitepaper_EN.pdf) 
-
-This repository contains the code that runs an AElf node, you'll find bellow other important repositories in the AElf 
-ecosystem:
-
-TOOL/LIBRARY | description
--------------|-------------
-[aelf-sdk.js](https://docs.aelf.io/en/latest/reference/chain-sdk/javascript/js-sdk.html) | Javascript development kit for interacting with an AElf node, useful for dApp developers. 
-[aelf-command](https://docs.aelf.io/en/latest/reference/cli/methods.html) | CLI tool for interacting with an AElf node and wallet.
-[aelf-boilerplate](https://aelf-boilerplate-docs.readthedocs.io/en/latest/) | framework for smart contract and dApp development.
+TreasureMouse integrates the core technical advantages of distributed cloud storage, blockchain technology, and big data application technology, integrates and classifies each application scene or data and skills, and puts the data on the platform. With the gradual enrichment of data, the use of knowledge and skills published more and more, but also a strong TreasureMouse value system.
 
 ## Getting Started
 
@@ -52,7 +25,7 @@ these two guides will get you started:
 
 If you have a reasonable understanding of blockchain technology and at least some notions of C# you can of course contribute. We also appreciate other types of contributions such as documentation improvements or even correcting typos in the code if you spot any.
 
-We expect every contributor to be respectful and constructive so that everyone has a positive experience, you can find out more in our [code of conduct](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md).
+We expect every contributor to be respectful and constructive so that everyone has a positive experience.
 
 ### Reporting an issue
 
@@ -62,11 +35,11 @@ We currently only use GitHub for tracking issues, feature request and pull reque
 
 If you think you have found a bug in our system feel free to open a GitHub issue, but first:
 - check with GitHub's search engine that the bug doesn't already exist.
-- in the request give as much information as possible such as: the OS, the version of AElf, how to reproduce...
+- in the request give as much information as possible such as: the OS, the version of TreasureMouse, how to reproduce...
 
 #### Missing feature
 
-We also use the GitHub issue tracker for features. If you think that some piece of functionality is missing in AElf, you can open an issue with the following in mind:
+We also use the GitHub issue tracker for features. If you think that some piece of functionality is missing in TreasureMouse, you can open an issue with the following in mind:
 - check for similare feature requests already open.
 - provide as much detail and context as possible.
 - be as convincing as possible as to why we need this feature and how everybody can benefit from it.
@@ -83,8 +56,8 @@ When you are ready for a review by the core team, just remove ```[WIP]``` from y
 
 ## Versioning
 
-We use Semantic Versioning (SemVer) for versioning, if you're intereted in closely following AElf's developement please check out the [SemVer docs](https://semver.org/).
+We use Semantic Versioning (SemVer) for versioning, if you're intereted in closely following TreasureMouse's developement please check out the [SemVer docs](https://semver.org/).
 
 ## License
 
-AElf is licenced under [MIT](https://github.com/AElfProject/AElf/blob/dev/LICENSE)
+TreasureMouse is licenced under [MIT]
